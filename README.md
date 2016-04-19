@@ -1,5 +1,7 @@
 # Scrum for Trello 2
 
+![alt tag](https://raw.githubusercontent.com/sanjeyac/scrum-for-trello-2/master/trello.jpg)
+
 A template for trello web page.
 This style code can be used with Stylish Mozilla Addon or Chrome Stylish plugin
 
