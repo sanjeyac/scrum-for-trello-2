@@ -39,6 +39,10 @@ div.list-card {
 	.boards-page-board-section-header-name{
 		color: white;
 	}
+
+.icon-overflow-menu-horizontal::before {
+    color: white;
+}
 	
 div#board div.js-list.list-wrapper {
 	margin: 0;
